@@ -25,22 +25,7 @@
             "While",
             "While.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "For",
-            "For.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "calc",
-            "calc.json"
-          ]
+
         }
       ],
       "configxml": null,
